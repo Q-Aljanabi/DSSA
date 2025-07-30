@@ -1,0 +1,50 @@
+2025-07-30 21:50:40,171 - root - INFO - Loading datasets...
+2025-07-30 21:50:41,735 - root - INFO - Created train loader with 640000 samples
+2025-07-30 21:50:41,735 - root - INFO - Created val loader with 80000 samples
+2025-07-30 21:50:41,735 - root - INFO - Created test loader with 80000 samples
+2025-07-30 21:50:41,735 - root - INFO - Created ts1 loader with 7162 samples
+2025-07-30 21:50:41,735 - root - INFO - Created ts2 loader with 30348 samples
+2025-07-30 21:50:41,736 - root - INFO - Created ts3 loader with 1800 samples
+2025-07-30 21:50:41,736 - root - INFO - Data loaded successfully:
+2025-07-30 21:50:41,736 - root - INFO - Number of node features: 12
+2025-07-30 21:50:41,736 - root - INFO - Number of edge features: 5
+2025-07-30 21:50:41,745 - root - INFO - Number of node types: 13
+2025-07-30 21:50:41,745 - root - INFO - Number of edge types: 5
+2025-07-30 21:50:41,745 - root - INFO - Creating dataloaders...
+2025-07-30 21:50:41,745 - root - INFO - Created train loader with 640000 samples
+2025-07-30 21:50:41,745 - root - INFO - Created val loader with 80000 samples
+2025-07-30 21:50:41,745 - root - INFO - Created test loader with 80000 samples
+2025-07-30 21:50:41,745 - root - INFO - Created ts1 loader with 7162 samples
+2025-07-30 21:50:41,745 - root - INFO - Created ts2 loader with 30348 samples
+2025-07-30 21:50:41,745 - root - INFO - Created ts3 loader with 1800 samples
+2025-07-30 21:50:41,745 - root - INFO - Dataloaders created successfully
+2025-07-30 21:50:41,745 - root - INFO - Setting up model and training components...
+2025-07-30 21:50:41,793 - root - INFO - Checking SMILES integration...
+2025-07-30 21:51:19,649 - root - WARNING - No SMILES data found in dataloader!
+2025-07-30 21:51:19,649 - root - INFO - Model will operate in graph-only mode
+2025-07-30 21:51:19,649 - root - INFO - Starting training...
+2025-07-30 21:54:08,142 - root - INFO - Loading datasets...
+2025-07-30 21:54:09,861 - root - INFO - Created train loader with 640000 samples
+2025-07-30 21:54:09,861 - root - INFO - Created val loader with 80000 samples
+2025-07-30 21:54:09,861 - root - INFO - Created test loader with 80000 samples
+2025-07-30 21:54:09,861 - root - INFO - Created ts1 loader with 7162 samples
+2025-07-30 21:54:09,861 - root - INFO - Created ts2 loader with 30348 samples
+2025-07-30 21:54:09,861 - root - INFO - Created ts3 loader with 1800 samples
+2025-07-30 21:54:09,861 - root - INFO - Data loaded successfully:
+2025-07-30 21:54:09,861 - root - INFO - Number of node features: 12
+2025-07-30 21:54:09,861 - root - INFO - Number of edge features: 5
+2025-07-30 21:54:09,861 - root - INFO - Number of node types: 13
+2025-07-30 21:54:09,861 - root - INFO - Number of edge types: 5
+2025-07-30 21:54:09,862 - root - INFO - Creating dataloaders...
+2025-07-30 21:54:09,862 - root - INFO - Created train loader with 640000 samples
+2025-07-30 21:54:09,862 - root - INFO - Created val loader with 80000 samples
+2025-07-30 21:54:09,862 - root - INFO - Created test loader with 80000 samples
+2025-07-30 21:54:09,862 - root - INFO - Created ts1 loader with 7162 samples
+2025-07-30 21:54:09,862 - root - INFO - Created ts2 loader with 30348 samples
+2025-07-30 21:54:09,862 - root - INFO - Created ts3 loader with 1800 samples
+2025-07-30 21:54:09,862 - root - INFO - Dataloaders created successfully
+2025-07-30 21:54:09,862 - root - INFO - Setting up model and training components...
+2025-07-30 21:54:09,930 - root - INFO - Checking SMILES integration...
+2025-07-30 21:54:46,253 - root - WARNING - No SMILES data found in dataloader!
+2025-07-30 21:54:46,253 - root - INFO - Model will operate in graph-only mode
+2025-07-30 21:54:46,253 - root - INFO - Starting training...
