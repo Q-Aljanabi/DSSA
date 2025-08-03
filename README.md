@@ -19,9 +19,7 @@ A state-of-the-art deep learning framework for predicting synthetic accessibilit
 
 Quick Start
 
-Online Predictor
-For quick predictions without installation, use our web-based predictor:
-[DSSA Predictor](http://dssa.denglab.org) - Get instant synthetic accessibility scores online!
+
 
 Local Installation
 
@@ -136,8 +134,6 @@ Key Components
 
 🔗 Web Interface
 
-Visit our online predictor for instant results:
-[DSSA Predictor](http://dssa.denglab.org)
 
 Features:
 - ✅ Single molecule prediction
